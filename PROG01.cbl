@@ -12,7 +12,7 @@
        PROCEDURE DIVISION.
        Calculator.
            PERFORM 3 TIMES
-              DISPLAY "Enter 1st Number      : " WITH NO ADVANCING
+              DISPLAY "Enter First Number      : " WITH NO ADVANCING
               ACCEPT Num1
               DISPLAY "Enter 2nd Number     : " WITH NO ADVANCING
               ACCEPT Num2
