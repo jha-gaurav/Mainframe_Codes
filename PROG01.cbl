@@ -14,7 +14,7 @@
            PERFORM 3 TIMES
               DISPLAY "Enter First Number      : " WITH NO ADVANCING
               ACCEPT Num1
-              DISPLAY "Enter 2nd Number     : " WITH NO ADVANCING
+              DISPLAY "Enter 2nd Num     : " WITH NO ADVANCING
               ACCEPT Num2
               DISPLAY "Enter operator (+ or *) : " WITH NO ADVANCING
               ACCEPT Operator
